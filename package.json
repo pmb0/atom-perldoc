@@ -1,0 +1,18 @@
+{
+  "name": "atom-perldoc",
+  "main": "./lib/perldoc",
+  "version": "0.0.0",
+  "description": "Open a rendered version of the perldoc in the current editor with `ctrl-alt-p`.",
+  "activationCommands": {
+    "atom-workspace": "perldoc:toggle"
+  },
+  "repository": "https://github.com/pmb0/atom-perldoc",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.5",
+    "underscore-plus": "^1.6.6"
+  }
+}
