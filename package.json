@@ -1,7 +1,7 @@
 {
   "name": "atom-perldoc",
   "main": "./lib/perldoc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Open a rendered version of the perldoc in the current editor with `ctrl-alt-p`.",
   "activationCommands": {
     "atom-workspace": "perldoc:toggle"
