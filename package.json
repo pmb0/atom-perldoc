@@ -1,5 +1,5 @@
 {
-  "name": "atom-perldoc",
+  "name": "perldoc",
   "main": "./lib/perldoc",
   "version": "0.0.1",
   "description": "Open a rendered version of the perldoc in the current editor with `ctrl-alt-p`.",
